@@ -1,0 +1,66 @@
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary float-right m-2" 
+data-toggle="modal" data-target="#exampleModal"
+(click)="addClick()"
+data-backdrop="static" data-keyboard="false"
+>
+    Add Sprint
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalLabel">{{ModalTitle}}</h5>
+          <button type="button" class="close" 
+          data-dismiss="modal" aria-label="Close"
+          (click)="closeClick()" >
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            <app-add-edit-sprint [sprin]="sprin" *ngIf="ActivateAddEditSprintComp">
+            </app-add-edit-sprint>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>SprintId</th>
+            <th>ProjectId</th>
+            <th>StartSprint</th>
+            <th>EndSprint</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Comment</th>
+            <th>Options</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let dataItem of SprintList">
+            <td>{{dataItem.id}}</td>
+            <td>{{dataItem.projectId}}</td>
+            <td>{{dataItem.startSprint}}</td>
+            <td>{{dataItem.endSprint}}</td>
+            <td>{{dataItem.name}}</td>
+            <td>{{dataItem.description}}</td>
+            <td>{{dataItem.comment}}</td>
+            <td>
+                <button type="button" class="btn btn-info mr-1"
+                data-toggle="modal" data-target="#exampleModal"
+                (click)="editClick(dataItem)"
+                data-backdrop="static" data-keyboard="false">
+                Edit                
+                </button>
+                <button type="button" class="btn btn-dark mr-1"
+                (click)="deleteClick(dataItem)">                
+                 Delete 
+                </button>
+            </td>
+        </tr>
+    </tbody>
+</table>

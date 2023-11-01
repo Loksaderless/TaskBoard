@@ -1,0 +1,25 @@
+<div class="form-froup row">
+
+    <label class="col-sm-2 col-form-label">Login</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Login"
+        placeholder="Enter Login">
+    </div>
+
+    <label class="col-sm-2 col-form-label">Password</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Password"
+        placeholder="Enter Password">
+    </div>
+
+    <label class="col-sm-2 col-form-label">Codeword</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Codeword"
+        placeholder="Enter Codeword">
+    </div>
+
+</div>
+
+<button (click)="addUser()" class="btn btn-primary">
+    Add
+</button>

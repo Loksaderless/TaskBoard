@@ -1,0 +1,17 @@
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.AssemblyInfo.cs
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.Service.deps.json
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.Service.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.Service.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.DAL.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.Domain.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.DAL.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\bin\Debug\net6.0\TaskBoard.Domain.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.csproj.CopyComplete
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\refint\TaskBoard.Service.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\TaskBoard.Service.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Service\obj\Debug\net6.0\ref\TaskBoard.Service.dll

@@ -1,0 +1,11 @@
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\bin\Debug\net6.0\TaskBoard.Domain.deps.json
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\bin\Debug\net6.0\TaskBoard.Domain.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\bin\Debug\net6.0\TaskBoard.Domain.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.AssemblyInfo.cs
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\refint\TaskBoard.Domain.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\TaskBoard.Domain.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.Domain\obj\Debug\net6.0\ref\TaskBoard.Domain.dll

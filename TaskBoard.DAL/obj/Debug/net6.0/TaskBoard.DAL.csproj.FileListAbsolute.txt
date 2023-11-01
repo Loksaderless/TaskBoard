@@ -1,0 +1,17 @@
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.DAL.deps.json
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.DAL.runtimeconfig.json
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.DAL.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.DAL.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.Domain.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\bin\Debug\net6.0\TaskBoard.Domain.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.AssemblyInfo.cs
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.csproj.CopyComplete
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\refint\TaskBoard.DAL.dll
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.pdb
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\TaskBoard.DAL.genruntimeconfig.cache
+C:\Users\Roman\source\repos\TaskBoard\TaskBoard.DAL\obj\Debug\net6.0\ref\TaskBoard.DAL.dll

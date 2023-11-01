@@ -1,0 +1,63 @@
+<div class="form-froup row">
+
+    <label class="col-sm-2 col-form-label">Project Id</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="ProjectId">
+            <option *ngFor="let projId of ProjectIdList">
+                {{projId}}
+            </option>
+        </select>
+    </div>
+
+    <label class="col-sm-2 col-form-label">Start Sprint</label>
+    <div class="col-sm-10">
+        <input type="date" [(ngModel)]="StartSprint">
+    </div>
+
+    <label class="col-sm-2 col-form-label">End Sprint</label>
+    <div class="col-sm-10">
+        <input type="date" [(ngModel)]="EndSprint">
+    </div>
+
+    <label class="col-sm-2 col-form-label">Sprint Name</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Name"
+        placeholder="Enter Sprint Name">
+    </div>
+
+    <label class="col-sm-2 col-form-label">Description</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Description"
+        placeholder="Enter Description">
+    </div>
+
+    <label class="col-sm-2 col-form-label">Comment</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Comment"
+        placeholder="Enter Comment">
+    </div>
+
+    <div *ngIf="sprin.Id==0">
+    <label class="col-sm-2 col-form-label">Users</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Users">
+            <option></option>
+            <option *ngFor="let usLogin of UsersLoginList">
+                {{usLogin}}
+            </option>
+        </select>
+    </div></div>
+
+    <div class="col-sm-10">
+        <input type="file" (change)="saveFile($event)" class="mt-2"/>
+    </div>
+
+</div>
+
+<button (click)="addSprint()" *ngIf="sprin.Id==0" class="btn btn-primary">
+    Add
+</button>
+
+<button (click)="updateSprint()" *ngIf="sprin.Id!=0" class="btn btn-primary">
+    Update
+</button>

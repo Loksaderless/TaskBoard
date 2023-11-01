@@ -1,0 +1,17 @@
+<div class="form-froup row">
+
+    <label class="col-sm-2 col-form-label">Role</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Role">
+            <option>--Select--</option>
+            <option *ngFor="let role of RoleList">
+                {{role}}
+            </option>
+        </select>
+    </div>
+
+</div>
+
+<button (click)="updateRoleUser()" class="btn btn-primary">
+    Update
+</button>
